@@ -1,0 +1,25 @@
+{
+  "name": "portfolioSite",
+  "version": "1.0.0",
+  "description": "Simple portfolio site",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dye784/portfolio.git"
+  },
+  "keywords": [],
+  "author": "Damon Ye",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dye784/portfolio/issues"
+  },
+  "homepage": "https://github.com/dye784/portfolio#readme",
+  "dependencies": {
+    "express": "^4.14.1",
+    "volleyball": "^1.4.1"
+  }
+}
