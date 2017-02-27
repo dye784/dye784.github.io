@@ -2460,6 +2460,12 @@
 			margin: 0;
 		}
 
+/*Font awesome buttons For Projects*/
+
+	.space-button {
+		margin-left: 5%;
+	}
+
 /* Header */
 
 	#header {
