@@ -2466,6 +2466,11 @@
 		margin-left: 5%;
 	}
 
+	.project-button:hover {
+		border-color: #000;
+		color: #000 !important;
+	}
+
 /* Header */
 
 	#header {
